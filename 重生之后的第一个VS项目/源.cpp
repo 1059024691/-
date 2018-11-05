@@ -3,6 +3,6 @@
 int main()
 {
 	printf("hello,world");
-	getchar();
+	printf("Œ“ «¡ı¥Û“Ø");
 	return 0;
 }
